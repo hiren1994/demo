@@ -2,4 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: \webpage
-    destination: c:\
+    destination: C:\inetpub\wwwroot
